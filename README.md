@@ -1,2 +1,2 @@
-# julia_notebook
+# julia_notebooks
 Notebook Based on Julia
