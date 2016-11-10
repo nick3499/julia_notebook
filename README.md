@@ -7,7 +7,6 @@ In other words, **Julia** has the best of both worlds:
 + speeds up program development like **Python**
 + speeds up execution time like **C++**
 
-#### Video Link
-[Robert Moss: Julia and the Next Generation Airborne Collision Avoidance System](https://youtu.be/19zm1Fn0S9M?t=10m56s)
+[PDF: Using julia as a Specification Language for the Next-Generation Airborne Collision Avoidance System (ACAS X)](http://juliacon.org/2015/images/juliacon2015_moss_v3.pdf)
 
 1. Wikipedia. [Julia(programming language)](https://en.wikipedia.org/wiki/Julia_(programming_language)). Web.
