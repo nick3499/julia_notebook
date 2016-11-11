@@ -53,3 +53,13 @@ Julia `Plot.jl` couples *plotly-latest.min.js* to the `plot()` function. *For ex
 
 # `nbconvert` to `html`
 	ipython3 nbconvert --to html dataframe.ipynb
+
+# `QuantEcon` library
+Install the `QuantEcon` library:
+
+    Pkg.add("QuantEcon")
+
+Import `tauchen` function from the `QuantEcon` library, then calculate *stochastic matrix*:
+
+    using QuantEcon: tauchen
+    tauchen(4, 0.9, 1.0)
