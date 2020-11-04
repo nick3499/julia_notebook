@@ -63,3 +63,5 @@ Import `tauchen` function from the `QuantEcon` library, then calculate *stochast
 
     using QuantEcon: tauchen
     tauchen(4, 0.9, 1.0)
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R72LISM)
